@@ -1,4 +1,5 @@
 import React from 'react'
+import './Button.css'
 
 const Button = (props)=>{
     const {name, customStyle, handleClick} = props
@@ -7,5 +8,4 @@ const Button = (props)=>{
         <button style = {customStyle} onClick={handleClick}>{name}</button>
     )
 }
-
 export default Button
