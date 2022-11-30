@@ -1,0 +1,23 @@
+.sider-wrapper{
+    background-color: rgb(102, 5, 182);
+    width: 150px;
+    height: 100vh;
+    color: rgb(171, 131, 188);
+}
+
+a{
+    text-decoration: none;
+}
+
+.sider-content{
+    font-size: 23px;
+    text-align: center;
+    padding: 10px;
+}
+
+.sider-content:hover{
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+
+
