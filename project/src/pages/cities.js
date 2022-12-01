@@ -5,7 +5,7 @@ const City = ()=>{
         <div className="city-content">
             <div className='city-header'>
                 <h2>Cities</h2>
-                <button>&#43;</button>
+                <button onClick={()=>console.log('button is clicked')}>&#43;</button>
             </div>
             <hr />
             <div className='city-init'>
