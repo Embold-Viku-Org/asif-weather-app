@@ -13,14 +13,14 @@
     transition: opacity 500ms;
 }
 
-.add-city-wrap{
+/* .add-city-wrap{
     height: 400px;
     width: 400px; 
     background-color: white;
     border-radius: 10px;
-}
+} */
 
-.add-city-header{
+/* .add-city-header{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -29,30 +29,30 @@
     height: 50px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-}
+} */
 
-.addcity-input{
+/* .addcity-input{
     border: 2px solid rgb(169, 162, 162);
     height: 65px;
     display: flex;
     align-items: center;
     justify-content: center;
-}
+} */
 
-.addcity-input input{
+/* .addcity-input input{
     height: 35px;
     width: 70%;
     border: 1px solid rgb(218, 213, 213);
     font-size: 15px;
     border-radius: 5px;
-}
+} */
 
-.addcity-input input:hover{
+/* .addcity-input input:hover{
     border: 2px solid rgb(54, 162, 224);
     transition-duration: 0.3s;
-}
+} */
 
-.cities-list{
+/* .cities-list{
     height: 275px;
     padding: 10px;
     justify-content: center;
@@ -61,9 +61,9 @@
 
 .cities-list::-webkit-scrollbar {
     display: none;
-}
+} */
 
-.cities-list ul li{
+/* .cities-list ul li{
     list-style: none;
     display: flex;
     justify-content: space-between;
@@ -75,13 +75,11 @@
     margin: 5px auto;
     font-weight: bold;
     border-radius: 5px;
-}
+} */
 
-.cities-list ul li button{
+/* .cities-list ul li button{
     font-size: 20px;
     height: 30px;
-}
+} */
 
-.toast-message{
-    width: 200px;
-}
+
